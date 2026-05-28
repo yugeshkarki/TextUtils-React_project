@@ -82,7 +82,4 @@ npm start
 - Improve UI/UX design  
 - Add more advanced text tools  
 
----
-## 👨‍💻 Author
-Yugesh Karki  
----
+
